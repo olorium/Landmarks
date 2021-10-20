@@ -1,3 +1,9 @@
 # SwiftUI test project
 
-All sorts of practice - dynamic lists, data parsing and handling, user inputs, 
+Simple list view with sorting funcionality, importing objects from JSON
+
+- SwiftUI
+- MapKit
+- CoreLocation
+- Combine
+- JSON
