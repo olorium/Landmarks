@@ -1,3 +1,3 @@
-# Completed Project: Building Lists and Navigation
+# SwiftUI test project
 
-Explore the completed project for the [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) tutorial.
+All sorts of practice - dynamic lists, data parsing and handling, user inputs, 
